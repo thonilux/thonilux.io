@@ -5,7 +5,7 @@ document.addEventListener('DOMContentLoaded', function() {
     const userChoice = confirm('Apakah kamu mau bunga?');
 
     if (userChoice) {
-      window.location.href = 'halaman-tujuan.html';
+      window.location.href = 'flower.html';
     } else {
       alert('gamau yaudah.');
     }
